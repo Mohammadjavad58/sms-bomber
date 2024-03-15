@@ -4,7 +4,7 @@
 #                                                                                    #
 # Description: This Program Powered By Javad Security Agency                        #
 # Made for: Fun and burning the SIM card of a person's phone                         #
-# Programmer: Ch4120n                                                                #
+# Programmer: Mohammadjavad                                                              #
 #                                                                                    #
 # Copyright :                                                                        #
 #                                                                                    #
@@ -16,7 +16,7 @@
 # But Without Any Warranty .  See The                                                #
 # `Javad General Black License` For More Details.                                   #
 # You Should Have Received A Copy Of The  `Javad General Black License`             #
-# Along With This Program. If Not, See <http://Javadsecurityagency.github.io/cgbl>  #
+# Along With This Program. If Not, See <https://github.com/Mohammadjavad58/javad-bomber>  #
 #                                                                                    #
 ######################################################################################
 '''
@@ -452,7 +452,7 @@ class JavadSMSBomber:
                 if str(choose) == '2':
                     print('''
 **********************
-Powered By [ Ch4120N ]
+Powered By [ Mohammadjavad58t ]
 Assistance With Javad Security Agency
 Version 1.0
 every month This Script Update                      
